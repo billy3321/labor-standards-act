@@ -1,6 +1,6 @@
 # 勞動基準法
 
-![](images/labor-standards-act.png)
+![勞動基準法](images/labor-standards-act.png)
 
 為規定勞動條件最低標準，保障勞工權益，加強勞雇關係，促進社會與經濟發展，特制定本法；本法未規定者，適用其他法律之規定。
 
